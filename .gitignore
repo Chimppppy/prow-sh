@@ -1,0 +1,20 @@
+# Binaries
+prow.exe
+prowd.exe
+prow
+prowd
+*.exe
+
+# Local Prow state
+.prow/
+*.db
+*.db-shm
+*.db-wal
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# /prds — product & architecture docs (tracked; not ignored by patterns below).
