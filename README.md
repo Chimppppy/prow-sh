@@ -1,5 +1,8 @@
 # Prow
 
+<img width="1829" height="860" alt="image" src="https://github.com/user-attachments/assets/166f286d-3405-4f25-bc31-5821bfe59699" />
+
+
 **Prow** is a unified control plane for SecOps teams: connect tools, normalize data to a common schema (PCS), and operate with auditability. This repository is an early **Phase 0A** scaffold.
 
 ## Two binaries
