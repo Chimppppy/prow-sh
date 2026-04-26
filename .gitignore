@@ -17,4 +17,5 @@ Thumbs.db
 .vscode/
 .idea/
 
-# /prds — product & architecture docs (tracked; not ignored by patterns below).
+# PRDs / local product docs (not published with the repo)
+prds/
